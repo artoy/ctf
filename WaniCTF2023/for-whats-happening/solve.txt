@@ -1,0 +1,4 @@
+file updogの結果が
+updog: ISO 9660 CD-ROM filesystem data 'ISO Label'
+なので拡張子をisoにして開く（開くとき自動で修復される？）
+で、flag.pngを見ればOK

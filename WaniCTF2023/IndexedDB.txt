@@ -1,0 +1,1 @@
+デベロッパーツールのIndexedDBを見る。（not modifiedの時は出てこないので注意）

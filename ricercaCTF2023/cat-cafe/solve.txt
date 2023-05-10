@@ -1,0 +1,2 @@
+http://cat-cafe.2023.ricercactf.com:8000/img?f=..././flag.txt
+https://scrapbox.io/satoooon-ctf-wiki/Path_Traversal
